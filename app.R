@@ -23,7 +23,7 @@ if (file.exists("Ausgaben.sqlite")) {
   db_path <- "Ausgaben_temp.sqlite"
 }
 
-# User
+# User definieren
 user1 <- "Bettina"
 user2 <- "Michi"
 
