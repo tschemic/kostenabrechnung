@@ -27,6 +27,7 @@ if (file.exists("Ausgaben.sqlite")) {
 user1 <- "Bettina"
 user2 <- "Michi"
 
+
 # Korrekturfaktor fuer Berechnung
 korr_factor <- 0.45
 
